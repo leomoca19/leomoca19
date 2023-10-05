@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leomoca19
 - 👀 I’m interested in learning how to develop software, write code and travel arround the world
-- 🌱 I’m currently learning german and python
+- 🌱 I’m currently learning german, portuguese, python, c/c++, javascript, oracle
 - 💞️ I’m looking to collaborate on any project that would enrich my knowledge
 - 📫 How to reach me: please sende an e-mail to leomoca19@gmail.com and i´ll be pleased to answear
 
